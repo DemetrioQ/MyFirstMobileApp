@@ -1,0 +1,14 @@
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.csprojAssemblyReference.cache
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.AssemblyInfoInputs.cache
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.AssemblyInfo.cs
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\MyFirstXamarinApp.deps.json
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\MyFirstXamarinApp.dll
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\ref\MyFirstXamarinApp.dll
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\bin\Debug\netstandard2.0\MyFirstXamarinApp.pdb
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.dll
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\ref\MyFirstXamarinApp.dll
+C:\Users\DemetrioQ\source\repos\MyFirstXamarinApp\MyFirstXamarinApp\MyFirstXamarinApp\obj\Debug\netstandard2.0\MyFirstXamarinApp.pdb
